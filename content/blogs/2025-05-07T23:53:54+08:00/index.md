@@ -6,6 +6,7 @@ summary: "🎉 My Blog Release"
 showReadingTime: false
 tags: ["blog"]
 categories: ["release"]
+
 ---
 
 <!-- # Launching Ground Zero: My Embedded Linux & IoT Blog -->
@@ -35,7 +36,7 @@ Here’s a glimpse of what I plan to post:
 * Deep dives into tools, boards, and open-source projects
 * Opinions, reviews, and rants from the world of connected hardware
 
-## Release Notes
+## Changelog
 
 **Version: V0.01.00**
 
